@@ -12,3 +12,5 @@ Disallow: /
 
 User-agent: Amazonbot
 Disallow: /
+
+Sitemap: https://frankmesa.com/sitemap.xml
